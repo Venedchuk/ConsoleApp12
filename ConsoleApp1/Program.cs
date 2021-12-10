@@ -11,6 +11,5 @@ namespace ConsoleApp1
             Console.WriteLine(a);
 
         }
-        public string MajorString;
     }
 }
